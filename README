@@ -1,0 +1,6 @@
+Christmas list will help you make a list of people
+to exchange gifts.  It makes sure:
+a. people from the same family don't get each other
+and b. person a and person b don't exchange gifts i.e. person a always gives to someone other htan person b if person b is giving them a gift
+It's "good enough" right now in that: it's fundamentally broken half the time since it infinitely recurses.
+so Control-C if it doesn't print out a list immediately and try again.
